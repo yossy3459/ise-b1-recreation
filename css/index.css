@@ -1,0 +1,31 @@
+footer{
+    clear:both;
+    font-size:20px;
+    color: green;
+    height:75px;
+    display:block;
+    position:absolute;
+    text-align: center;
+    bottom:0;
+    width: 100%;
+}
+
+footer div{
+    margin: 0 auto;
+    padding: 5px 10px;
+    display:inline-block;
+    background-color: rgba(232,245,233,0.8);
+}
+
+.present {
+    background-color: rgba(232,245,233,0.8);
+}
+
+.reveal h1 {
+    padding: 50px 50px;
+    color: #43A047;
+}
+
+.reveal h2 {
+    color: #43A047;
+}

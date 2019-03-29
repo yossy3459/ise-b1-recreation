@@ -7,7 +7,7 @@
 		<title>reveal.js</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css">
+		<link rel="stylesheet" href="css/theme/white.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -20,14 +20,20 @@
 			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
+
+		<!-- css for footer and page number -->
+		<link rel="stylesheet" href="css/index.css">
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+				<section class="contents" data-markdown="index.md" data-separator="^\n---\n$" data-separator-vertical="^\n>>>\n$"></section>
 			</div>
 		</div>
+
+		<footer>
+			<div>2019/4/6 芝浦工業大学 情報工学科 新入生オリエンテーション@代々木 レク資料</div>
+		</footer>
 
 		<script src="lib/js/head.min.js"></script>
 		<script src="js/reveal.js"></script>
@@ -45,5 +51,17 @@
 				]
 			});
 		</script>
+		<script>
+			Reveal.initialize({
+			controls: true,
+			progress: true,
+			history: true,
+			center: true,
+			theme: 'default',
+			transition: Reveal.getQueryHash().transition || 'default',
+			transitionSpeed: 'default'
+			});
+		</script>
+	
 	</body>
 </html>
