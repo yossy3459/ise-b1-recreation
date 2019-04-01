@@ -14,11 +14,11 @@ footer div{
     margin: 0 auto;
     padding: 5px 10px;
     display:inline-block;
-    background-color: rgba(232,245,233,0.8);
+    background-color: rgba(232,245,233,0.9);
 }
 
 .present {
-    background-color: rgba(232,245,233,0.8);
+    background-color: rgba(232,245,233,0.9);
 }
 
 .reveal h1 {
@@ -28,4 +28,8 @@ footer div{
 
 .reveal h2 {
     color: #43A047;
+}
+
+.reveal size-shrink {
+    width: 50%;
 }

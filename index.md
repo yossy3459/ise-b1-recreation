@@ -1,12 +1,14 @@
 <!-- .element data-background="image/marshmallow-coffee.jpg" -->
 # マシュマロ<br>チャレンジ
 ___
+@Note:
+マシュマロチャレンジを知っているかどうか聞く
 
 ---
 
 <!-- .element data-background="image/skytree.jpg" -->
 
-## マシュマロチャレンジとは？？
+## マシュマロチャレンジとは？
 ___
 - チーム対抗で **より高いタワーを立てる** ゲーム<!-- .element: class="fragment" data-fragment-index="1" -->
 - 使えるのは **パスタとテープとひも** だけ<!-- .element: class="fragment" data-fragment-index="2" -->
@@ -21,13 +23,30 @@ ___
 ___
 パスタ・テープ・ひもでタワーを作り、<!-- .element: class="fragment" data-fragment-index="1" -->
 
-タワーのてっぺんにマシュマロを置いたときに、<!-- .element: class="fragment" data-fragment-index="2" -->
+タワーの一番上にマシュマロを置いたときに、<!-- .element: class="fragment" data-fragment-index="2" -->
 
-一番高いチームが優勝！<!-- .element: class="fragment" data-fragment-index="3" -->
+一番高い班が優勝！<!-- .element: class="fragment" data-fragment-index="3" -->
 
 >>>
 
-<!-- .element data-background="image/skytree.jpg" -->
+<!-- .element data-background="image/enjin_people.png" data-background-color="#A5D6A7" -->
+
+### チーム分け
+___
+各班を3つのチームに分ける<!-- .element: class="fragment" data-fragment-index="1" -->
+
+番号順に 4 or 5 人で 1 チーム<!-- .element: class="fragment" data-fragment-index="1" -->
+
+**3つのチームの高さの合計で、各班の順位を決定！**<!-- .element: class="fragment" data-fragment-index="2" -->
+
+**上位の班には豪華賞品あげます！！**<!-- .element: class="fragment" data-fragment-index="3" -->
+
+@Note:
+ここでチーム分けをしてしまう。各TAさんお願いします。
+
+>>>
+
+<!-- .element data-background="image/timer.png" data-background-size="50%" data-background-color="#C5E1A5" -->
 
 ### 制限時間
 ___
@@ -35,29 +54,12 @@ ___
 - 作戦タイム: 3分<!-- .element: class="fragment" data-fragment-index="2" -->
 - 建築タイム: 12分<!-- .element: class="fragment" data-fragment-index="3" -->
 
-(建築タイム中に話し合うのはOK)<!-- .element: class="fragment" data-fragment-index="4" -->
+(建築タイム中の話し合いはOK)<!-- .element: class="fragment" data-fragment-index="4" -->
+
+@Note:
+このあたりを説明しながら、各TAに材料と道具を配ってもらう。
 
 >>>
-
-<!-- .element data-background="image/skytree.jpg" -->
-
-### 注意事項
-___
-- マシュマロは、パスタタワーの上に置くか刺す
-- パスタ、テープ、ひもを切り貼りするのはOK
-- **足場をテープで固定してはいけない！**
-- **マシュマロは切ったり食べたりしてはいけない**
-- 建築タイム終了時、すぐに手を離すこと
-- **計測までにタワーが倒れたら、記録なし**
-
----
-
-<!-- .element data-background="image/enjin_people.png" -->
-
-## チーム分け
-___
-
----
 
 <!-- .element data-background="image/goods.jpg" -->
 
@@ -72,34 +74,59 @@ ___
 | はさみ | 1本 |
 |||
 
+>>>
+
+<!-- .element data-background="image/caution.png" data-background-size="50%" data-background-color="#E6EE9C" -->
+
+### 注意事項
+___
+- パスタ、テープ、ひもを切り貼りするのはOK
+- **足場をテープで固定してはいけない**
+- マシュマロは、建築タイム内にタワーの上に置くか刺す
+- **マシュマロを切ったり食べたりしてはいけない**
+- 建築タイム終了時、すぐに手を離すこと
+- **計測までにタワーが倒れたら、記録なし**
+
 ---
 
-<!-- .element data-background="image/marshmallow-coffee.jpg" -->
+<!-- .element data-background="image/skytree.jpg" -->
 
-#### ルールまとめ
+## 準備はいいですか？？
 ___
 - プレイ時間は15分（作戦3分、建築12分)
-- パスタ、テープ、ひもの切り貼りはOK
 - テープで足場を固定してはいけない
-- マシュマロは最後にてっぺんに乗せる
+- マシュマロは一番上に
 - 計測の間もタワーは自立していること
-- 一番高いチームの勝利！
----
-***優秀なチームには豪華賞品もあるかも...???***
+- 3チームの合計で一番高い班の優勝！
+
+***優秀なチームには豪華賞品があるかも...???***
+
+@Note:
+タイマーを用意 (3分、15分)
 
 ---
 
-<!-- .element data-background="image/marshmallow-coffee.jpg" -->
+<!-- .element data-background="image/skytree.jpg" -->
 
 ## 測定中...
 ___
+しばらくお待ち下さい...
 
----
+@Note:
+集計結果をSpreadSheetにまとめる。
+結果をすぐにスライドに打ち込み
 
-<!-- .element data-background="image/marshmallow-coffee.jpg" -->
+>>>
 
-## 結果発表！
+<!-- .element data-background="image/skytree.jpg" -->
+
+## <span style="color:#E91E63">結果発表！！</span>
 ___
+### 1位: **a班 (12 + 34 + 56 = 200cm)**<!-- .element: class="fragment" data-fragment-index="3" -->
+
+### 2位: **b班 (12 + 34 + 56 = 200cm)**<!-- .element: class="fragment" data-fragment-index="2" -->
+
+### 3位: **c班 (12 + 34 + 56 = 200cm)**<!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 
@@ -107,9 +134,9 @@ ___
 
 ## 実は...
 ___
-- **このゲームは、アイスブレイクや企業のオリエンテーションでも実際にあります**
-- **幼稚園児の記録がのほうが良かったり...**
-- **計画も大事だが、アイディアを出しながら役割分担して試行錯誤することも大事です**
+- このゲームは、**企業のアイスブレイクやオリエンテーション**で実際に行われています
+- **幼稚園児の記録のほうが、大人よりも良い**
+- 計画も大事だが、**アイディアを出しながら役割分担して試行錯誤すること**も大事です
 
 ---
 
@@ -117,4 +144,4 @@ ___
 
 ## マシュマロチャレンジ
 ___
-~ 完 ~
+~ おしまい ~
