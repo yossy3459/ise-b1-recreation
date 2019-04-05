@@ -30,6 +30,20 @@ footer div{
     color: #43A047;
 }
 
-.reveal size-shrink {
-    width: 50%;
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+    text-transform: none;
+}
+
+.reveal table.table-big {
+    font-size: 1.3em;
+    font-style: bold;
+}
+
+.reveal table.table-big th {
+    text-align: right;
 }

@@ -1,3 +1,8 @@
+### 以下のように座ってください
+<img alt="seat" src="image/seat.png" width="70%"></img>
+
+---
+
 <!-- .element data-background="image/marshmallow-coffee.jpg" -->
 # マシュマロ<br>チャレンジ
 ___
@@ -122,15 +127,15 @@ ___
 
 ## <span style="color:#E91E63">結果発表！！</span>
 ___
-||||
-|:-:|:-:|:-:|
-|4位|班<!-- .element: class="fragment" data-fragment-index="7" -->|cm<!-- .element: class="fragment" data-fragment-index="7" -->|
-|5位|班<!-- .element: class="fragment" data-fragment-index="6" -->|cm<!-- .element: class="fragment" data-fragment-index="6" -->|
-|6位|班<!-- .element: class="fragment" data-fragment-index="5" -->|cm<!-- .element: class="fragment" data-fragment-index="5" -->|
-|7位|班<!-- .element: class="fragment" data-fragment-index="4" -->|cm<!-- .element: class="fragment" data-fragment-index="4" -->|
-|8位|班<!-- .element: class="fragment" data-fragment-index="3" -->|cm<!-- .element: class="fragment" data-fragment-index="3" -->|
-|9位|班<!-- .element: class="fragment" data-fragment-index="2" -->|cm<!-- .element: class="fragment" data-fragment-index="2" -->|
-|10位|班<!-- .element: class="fragment" data-fragment-index="1" -->|cm<!-- .element: class="fragment" data-fragment-index="1" -->|
+|||||
+|:-:|:-:|:-:|:-:|
+|4位|[7pt]|班<!-- .element: class="fragment" data-fragment-index="7" -->|( cm)<!-- .element: class="fragment" data-fragment-index="7" -->|
+|5位|[6pt]|班<!-- .element: class="fragment" data-fragment-index="6" -->|( cm)<!-- .element: class="fragment" data-fragment-index="6" -->|
+|6位|[5pt]|班<!-- .element: class="fragment" data-fragment-index="5" -->|( cm)<!-- .element: class="fragment" data-fragment-index="5" -->|
+|7位|[4pt]|班<!-- .element: class="fragment" data-fragment-index="4" -->|( cm)<!-- .element: class="fragment" data-fragment-index="4" -->|
+|8位|[3pt]|班<!-- .element: class="fragment" data-fragment-index="3" -->|( cm)<!-- .element: class="fragment" data-fragment-index="3" -->|
+|9位|[2pt]|班<!-- .element: class="fragment" data-fragment-index="2" -->|( cm)<!-- .element: class="fragment" data-fragment-index="2" -->|
+|10位|[1pt]|班<!-- .element: class="fragment" data-fragment-index="1" -->|( cm)<!-- .element: class="fragment" data-fragment-index="1" -->|
 
 
 
@@ -140,11 +145,25 @@ ___
 
 ## <span style="color:#E91E63">結果発表！！</span>
 ___
-### 1位: **a班 (200cm)**<!-- .element: class="fragment" data-fragment-index="3" -->
-
-### 2位: **b班 (200cm)**<!-- .element: class="fragment" data-fragment-index="2" -->
-
-### 3位: **c班 (200cm)**<!-- .element: class="fragment" data-fragment-index="1" -->
+<table class="table-big">
+<tr>
+    <th>1位</th>
+    <th>[10pt]</th>
+    <th>1班<!-- .element: class="fragment" data-fragment-index="3" --></th>
+    <th>(300cm)<!-- .element: class="fragment" data-fragment-index="3" --></th>
+</tr>
+    <th>2位</th>
+    <th>[9pt]</th>
+    <th>2班<!-- .element: class="fragment" data-fragment-index="2" --></th>
+    <th>(200cm)<!-- .element: class="fragment" data-fragment-index="2" --></th>
+</tr>
+<tr>
+    <th>3位</th>
+    <th>[8pt]</th>
+    <th>3班<!-- .element: class="fragment" data-fragment-index="1" --></th>
+    <th>(200cm)<!-- .element: class="fragment" data-fragment-index="1" --></th>
+</tr>
+</table>
 
 ---
 
