@@ -39,7 +39,7 @@ ___
 
 **3つのチームの高さの合計で、各班の順位を決定！**<!-- .element: class="fragment" data-fragment-index="2" -->
 
-**上位の班には豪華賞品をプレゼント！！**<!-- .element: class="fragment" data-fragment-index="3" -->
+**次のゲームと合わせて、上位の班には豪華賞品をプレゼント！！**<!-- .element: class="fragment" data-fragment-index="3" -->
 
 @Note:
 ここでチーム分けをしてしまう。各TAさんお願いします。
@@ -122,11 +122,29 @@ ___
 
 ## <span style="color:#E91E63">結果発表！！</span>
 ___
-### 1位: **a班 (12 + 34 + 56 = 200cm)**<!-- .element: class="fragment" data-fragment-index="3" -->
+||||
+|:-:|:-:|:-:|
+|4位|班<!-- .element: class="fragment" data-fragment-index="7" -->|cm<!-- .element: class="fragment" data-fragment-index="7" -->|
+|5位|班<!-- .element: class="fragment" data-fragment-index="6" -->|cm<!-- .element: class="fragment" data-fragment-index="6" -->|
+|6位|班<!-- .element: class="fragment" data-fragment-index="5" -->|cm<!-- .element: class="fragment" data-fragment-index="5" -->|
+|7位|班<!-- .element: class="fragment" data-fragment-index="4" -->|cm<!-- .element: class="fragment" data-fragment-index="4" -->|
+|8位|班<!-- .element: class="fragment" data-fragment-index="3" -->|cm<!-- .element: class="fragment" data-fragment-index="3" -->|
+|9位|班<!-- .element: class="fragment" data-fragment-index="2" -->|cm<!-- .element: class="fragment" data-fragment-index="2" -->|
+|10位|班<!-- .element: class="fragment" data-fragment-index="1" -->|cm<!-- .element: class="fragment" data-fragment-index="1" -->|
 
-### 2位: **b班 (12 + 34 + 56 = 200cm)**<!-- .element: class="fragment" data-fragment-index="2" -->
 
-### 3位: **c班 (12 + 34 + 56 = 200cm)**<!-- .element: class="fragment" data-fragment-index="1" -->
+
+>>>
+
+<!-- .element data-background="image/skytree.jpg" -->
+
+## <span style="color:#E91E63">結果発表！！</span>
+___
+### 1位: **a班 (200cm)**<!-- .element: class="fragment" data-fragment-index="3" -->
+
+### 2位: **b班 (200cm)**<!-- .element: class="fragment" data-fragment-index="2" -->
+
+### 3位: **c班 (200cm)**<!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 
